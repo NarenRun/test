@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Eras Medium ITC';
+    src: url('ErasITC-Medium.eot');
+    src: url('ErasITC-Medium.eot?#iefix') format('embedded-opentype'),
+        url('ErasITC-Medium.woff2') format('woff2'),
+        url('ErasITC-Medium.woff') format('woff'),
+        url('ErasITC-Medium.ttf') format('truetype'),
+        url('ErasITC-Medium.svg#ErasITC-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

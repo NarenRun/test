@@ -1,0 +1,16 @@
+* {
+      margin: 0;
+      box-sizing: border-box;
+      padding: 0;
+}
+.box{
+    height: 70px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.image{
+    height: 70px;
+    width: 15%;
+    background-color: pink;
+}
+.menu{}
